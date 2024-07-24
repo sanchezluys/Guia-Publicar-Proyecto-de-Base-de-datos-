@@ -36,11 +36,11 @@ sqlCopySELECT * FROM tabla WHERE condicion = 'valor';
 Para más ejemplos de consultas, consulta el archivo sql/queries.sql.
 Estructura del Proyecto
 
-/sql: Contiene los archivos SQL para la estructura y datos de la base de datos.
-/docs: Documentación detallada y diagramas.
-/scripts: Scripts útiles para el proyecto.
-/tests: Pruebas unitarias y de integración.
-/config: Archivos de configuración.
+- /sql: Contiene los archivos SQL para la estructura y datos de la base de datos.
+- /docs: Documentación detallada y diagramas.
+- /scripts: Scripts útiles para el proyecto.
+- /tests: Pruebas unitarias y de integración.
+- /config: Archivos de configuración.
 
 Documentación
 Para una documentación más detallada, incluyendo el diagrama ER y la descripción de las tablas, consulta la carpeta /docs.
