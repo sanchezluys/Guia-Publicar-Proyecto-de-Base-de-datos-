@@ -20,7 +20,7 @@ Copymysql -u [usuario] -p nombre_de_tu_base_de_datos < sql/schema.sql
 
 (Opcional) Importa los datos de muestra:
 Copymysql -u [usuario] -p nombre_de_tu_base_de_datos < sql/data.sql
-
+```
 
 Configuración
 
@@ -51,4 +51,3 @@ Este proyecto está bajo la licencia [nombre de la licencia]. Ver el archivo LIC
 Copy
 Este README.md proporciona una visión general del proyecto, instrucciones de instalación y configuración, ejemplos de uso, y otra información importante para los usuarios y colaboradores del proyecto. 
 
-¿Quieres que ajuste o añada algo más al README?
