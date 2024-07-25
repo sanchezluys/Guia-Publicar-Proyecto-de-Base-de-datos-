@@ -1,0 +1,1 @@
+readme en carpeta imagenes
